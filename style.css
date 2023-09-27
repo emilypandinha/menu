@@ -1,9 +1,9 @@
 @import url("styles/header.css"); 
 
 :root{
-    --cor-de-fundo:#5723e6;
-    --branco: #39dee4; 
-    --laranja: #00d0eb7a;
+    --cor-de-fundo:#5723e6a8;
+    --branco: #8939e4; 
+    --laranja: #2b00eb50;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     font-family: 'Poppins', sans-serif;
 }
