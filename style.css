@@ -1,7 +1,7 @@
 @import url("styles/header.css"); 
 
 :root{
-    --cor-de-fundo:#148dac5d;
+    --cor-de-fundo:#090a0aee;
     --branco: #8939e460; 
     --laranja: #2b00eb50;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
