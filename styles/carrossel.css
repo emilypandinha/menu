@@ -1,10 +1,10 @@
-.carrossdel__titulo {                                                                           
-    color: blueviolet
-    background-color:aquamarine
-    text-align: center; }
+.carrossel__titulo {                                                                           
+    color: blueviolet;
+    background-color:aquamarine;
+    text-align: center; 
     font-size: 18px;
     font-weight: 700;
-    pading: 1em;
+    padding: 1em;
 }
 .carrossel{
     background-color:black   ;  
