@@ -5,8 +5,8 @@
 
 :root{
     --cor-de-fundo:#4895dd94;
-    --branco: #e439b19d; 
-    --laranja: #2b00eb50;
+    --branco: #3958e49d; 
+    --laranja: #005eeb85;
     --azul-degrade: linear-gradient(97.54deg, #5fa4f3a8 35.49%,#5fa4f3a8 35.49%);
     font-family: 'Poppins', sans-serif;
 }
