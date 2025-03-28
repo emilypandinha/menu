@@ -1,5 +1,5 @@
 .carrossel__titulo {                                                                           
-    color: rgb(186, 57, 221);
+    color: rgb(189, 93, 24);
     background-color:rgb(207, 165, 232);
     text-align: center; 
     font-size: 18px;
@@ -7,7 +7,7 @@
     padding: 1em;
 }
 .carrossel{
-    background-color:rgb(180, 12, 196)   ;  
+    background-color:rgb(176, 14, 14)   ;  
 }
 .swiper-slide img{
     padding: 3px;
